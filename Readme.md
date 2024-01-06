@@ -32,9 +32,13 @@ In progress
 In progress 
 
 ## wish rose shader
+[github]()
+
 In progress
 
 ## black lotus shader
+[github]()
+
 In progress 
 
 # --- End ---
