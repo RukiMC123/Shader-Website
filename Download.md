@@ -17,7 +17,7 @@
 #### Android
 [download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-android.mcpack)
 #### Ios
-[download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-ios-materials.zip)
+[download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
 #### Windows
 [download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
 
