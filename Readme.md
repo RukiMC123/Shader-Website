@@ -6,6 +6,8 @@
 
 Still developing shaders
 ### Normal
+![Normal](Normal.jpg "Newb X Paretion, MCBE 1.20.30")
+
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Paretion)
 
 Still developing shaders
