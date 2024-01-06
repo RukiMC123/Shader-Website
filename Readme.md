@@ -1,7 +1,6 @@
 # Shader made by RukiMC 
 
 ## Newb X Paretion 
-...
 ### Chill Version
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Paretion-chill-version)
 
