@@ -22,22 +22,44 @@
 [download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
 
 ## Newb X Trailer
-[github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Trailer)
-
+#### Android
+In progress 
+#### Ios
+In progress 
+#### Windows
 In progress 
 
 ## Newb X Nostalgia 
-[github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Nostalgia)
-
+#### Android
+In progress 
+#### Ios
+In progress 
+#### Windows
 In progress 
 
+
 ## Paretion shader 
+#### Android
+In progress 
+#### Ios
+In progress 
+#### Windows
 In progress 
 
 ## wish rose shader
+#### Android
+In progress 
+#### Ios
+In progress 
+#### Windows
 In progress 
 
 ## black lotus shader
+#### Android
+In progress 
+#### Ios
+In progress 
+#### Windows
 In progress 
 
 # --- end ---
