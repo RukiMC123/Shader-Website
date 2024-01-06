@@ -16,7 +16,7 @@ Still developing shaders
 ## Paretion shader 
 Still developing shaders
 
-## rose wish shader
+## wish rose shader
 Still developing shaders
 
 ## black lotus shader
