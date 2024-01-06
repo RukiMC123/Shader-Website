@@ -27,6 +27,8 @@ In progress
 In progress 
 
 ## Paretion shader 
+[github](https://github.com/RukiMC123/Paretion-shader)
+
 In progress 
 
 ## wish rose shader
