@@ -8,7 +8,7 @@
 
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Paretion-chill-version)
 
-Still developing shaders
+In progress
 ### Normal
 ![Normal](Normal.jpg "Newb X Paretion, MCBE 1.20.30")
 
@@ -16,25 +16,23 @@ Still developing shaders
 
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Paretion)
 
-Still developing shaders
-
 ## Newb X Trailer
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Trailer)
 
-Still developing shaders
+In progress
 
 ## Newb X Nostalgia 
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Nostalgia)
 
-Still developing shaders
+In progress 
 
 ## Paretion shader 
-Still developing shaders
+In progress 
 
 ## wish rose shader
-Still developing shaders
+In progress
 
 ## black lotus shader
-Still developing shaders
+In progress 
 
---- end ---
+# --- End ---
