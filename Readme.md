@@ -1,5 +1,5 @@
-# Shader
-Shader
+# Shader made by RukiMC 
+
 ## Newb X Paretion 
 ...
 ### Chill Version
