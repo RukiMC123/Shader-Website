@@ -23,43 +23,42 @@
 
 ## Newb X Trailer
 #### Android
-In progress 
+*In progress* 
 #### Ios
-In progress 
+*In progress*
 #### Windows
-In progress 
+*In progress*
 
 ## Newb X Nostalgia 
 #### Android
-In progress 
+*In progress*
 #### Ios
-In progress 
+*In progress*
 #### Windows
-In progress 
-
+*In progress*
 
 ## Paretion shader 
 #### Android
-In progress 
+*In progress*
 #### Ios
-In progress 
+*In progress*
 #### Windows
-In progress 
+*In progress*
 
 ## wish rose shader
 #### Android
-In progress 
+*In progress*
 #### Ios
-In progress 
+*In progress*
 #### Windows
-In progress 
+*In progress*
 
 ## black lotus shader
 #### Android
-In progress 
+*In progress*
 #### Ios
-In progress 
+*In progress*
 #### Windows
-In progress 
+*In progress*
 
 # --- end ---
