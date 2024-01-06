@@ -19,20 +19,20 @@
 ## Newb X Trailer
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Trailer)
 
-Still developing shaders
+In progress 
 
 ## Newb X Nostalgia 
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Nostalgia)
 
-Still developing shaders
+In progress 
 
 ## Paretion shader 
-Still developing shaders
+In progress 
 
 ## wish rose shader
-Still developing shaders
+In progress 
 
 ## black lotus shader
-Still developing shaders
+In progress 
 
---- end ---
+# --- end ---
