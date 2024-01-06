@@ -17,6 +17,8 @@ Still developing shaders
 Still developing shaders
 
 ## Newb X Nostalgia 
+[github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Nostalgia)
+
 Still developing shaders
 
 ## Paretion shader 
