@@ -23,11 +23,11 @@
 
 ## Newb X Trailer
 #### Android
-*In progress* 
+[download](https://github.com/RukiMC123/newb-x-paretion/actions/runs/7344679382/artifacts/1137404977)
 #### Ios
-*In progress*
+[download](https://github.com/RukiMC123/newb-x-paretion/actions/runs/7344679382/artifacts/1137404980)
 #### Windows
-*In progress*
+[download](https://github.com/RukiMC123/newb-x-paretion/actions/runs/7344679382/artifacts/1137404984)
 
 ## Newb X Nostalgia 
 #### Android
