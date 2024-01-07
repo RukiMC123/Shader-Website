@@ -22,6 +22,8 @@
 [download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-windows.mcpack)
 
 ## Newb X Trailer
+![Trailer](Trailer.jpg "Newb X Trailer, MCBE 1.20.30")
+
 #### Android
 [download](https://github.com/RukiMC123/newb-x-paretion/actions/runs/7344679382/artifacts/1137404977)
 #### Ios
