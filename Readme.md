@@ -1,6 +1,5 @@
 # Shader made by RukiMC 
 There are currently three shaders released
-# Newb variant zone
 ## Newb X Paretion 
 ### Chill Version
 ![Chill](Chill.jpg "Newb X Paretion, MCBE 1.20.30")
@@ -28,8 +27,6 @@ In progress
 [download](https://github.com/RukiMC123/Shader-Website/blob/main/Download.md#newb-x-nostalgia)
 
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Nostalgia)
-
-# Other shader areas of RukiMC
 
 ## Paretion shader 
 [github](https://github.com/RukiMC123/Paretion-shader)
