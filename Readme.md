@@ -26,9 +26,9 @@ In progress
 In progress
 
 ## Newb X Nostalgia 
-[github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Nostalgia)
+[download](https://github.com/RukiMC123/Shader-Website/blob/main/Download.md#newb-x-nostalgia)
 
-In progress 
+[github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Nostalgia)
 
 ## Paretion shader 
 [github](https://github.com/RukiMC123/Paretion-shader)
