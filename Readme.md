@@ -23,8 +23,6 @@ In progress
 
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Trailer)
 
-In progress
-
 ## Newb X Nostalgia 
 [download](https://github.com/RukiMC123/Shader-Website/blob/main/Download.md#newb-x-nostalgia)
 
