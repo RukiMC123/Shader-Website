@@ -2,7 +2,7 @@
 There are currently three shaders released
 ## Newb X Paretion 
 ### Chill Version
-![Chill](Chill.jpg "https://github.com/RukiMC123/Shader-Website/blob/main/Download.md#chill-version")
+![Chill](Chill.jpg https://github.com/RukiMC123/Shader-Website/blob/main/Download.md#chill-version)
 
 [download](https://github.com/RukiMC123/Shader-Website/blob/main/Download.md#chill-version)
 
