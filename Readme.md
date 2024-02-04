@@ -16,17 +16,10 @@ In progress
 
 [github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Paretion)
 
-## Newb X Trailer
-![Trailer](Trailer.jpg "Newb X Trailer, MCBE 1.20.30")
-
-[download](https://github.com/RukiMC123/Shader-Website/blob/main/Download.md#newb-x-trailer)
-
-[github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Trailer)
-
 ## Newb X Nostalgia 
 [download](https://github.com/RukiMC123/Shader-Website/blob/main/Download.md#newb-x-nostalgia)
 
-[github](https://github.com/RukiMC123/newb-x-paretion/tree/Newb-X-Nostalgia)
+[github](https://github.com/RukiMC123/newb-x-nostalgia)
 
 ## Paretion shader 
 [github](https://github.com/RukiMC123/Paretion-shader)
