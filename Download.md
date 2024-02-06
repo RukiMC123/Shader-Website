@@ -2,7 +2,7 @@
 
 ## Newb X Paretion 
 ### Reimagied
-![Chill](Reimagied.jpg "Newb X Paretion, MCBE 1.20.30")
+![Reimagied](Reimagied.jpg "Newb X Paretion, MCBE 1.20.30")
 
 #### Android
 [download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-reimagied-android.mcpack)
