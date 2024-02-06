@@ -2,14 +2,14 @@
 
 ## Newb X Paretion 
 ### Reimagied
-![Chill](Chill.jpg "Newb X Paretion, MCBE 1.20.30")
+![Chill](Reimagied.jpg "Newb X Paretion, MCBE 1.20.30")
 
 #### Android
-[download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-android.mcpack)
+[download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-reimagied-android.mcpack)
 #### Ios
-[download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-ios-materials.zip)
+[download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-reimagied-ios-materials.zip)
 #### Windows
-[download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-chill-version-windows.mcpack)
+[download](https://github.com/RukiMC123/Shader-Website/raw/main/newb-x-paretion-reimagied-windows.mcpack)
 
 ### Normal
 ![Normal](Normal.jpg "Newb X Paretion, MCBE 1.20.30")
