@@ -1,7 +1,7 @@
 # Download shader.md
-# -------------- Start --------------
+
 ## Newb X Paretion 
-### Chill Version
+### Reimagied
 ![Chill](Chill.jpg "Newb X Paretion, MCBE 1.20.30")
 
 #### Android
